@@ -1,3 +1,10 @@
+## Simple Calculator using React.
+
+In this project I practiced passing props to children components and event handlers.
+
+![](calculator.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
