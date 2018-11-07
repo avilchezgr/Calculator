@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.display{
+	text-align:center;
+	width: 420px;
+	height: 100px;
+	background-color:#04B404;
+	color:white;
+	font-size:70px;
+	margin: 0 auto;
+}
+.clear{
+	width:100px;
+	height:100px;
+	margin:0;
+	border-width:10px;
+	border-color:black;
+}
+.buttonClear{
+	background-color:grey;
+	font-size:50px;
+}
+.numero{
+	background-color:white;
+	font-size:70px;
+}
+.cuadrado{
+	width:100px;
+	height:100px;
+	margin:0;
+	border-width:10px;
+	border-color:black;
+}
+.operador{
+	background-color:red;
+	color:white;
+	font-size:70px;
+}
+.tabla{
+	padding:0;
+	border-color:grey;
+	background-color:black;
+}
+.mainDiv{
+	margin-left:150px;
+	margin-top:70px;
+	
+}
+
